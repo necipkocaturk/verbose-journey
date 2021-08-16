@@ -22,3 +22,5 @@ class ExampleInstrumentedTest {
         assertEquals("com.jetbrains.simplelogin.androidapp", appContext.packageName)
     }
 }
+
+// necip
