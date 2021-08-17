@@ -86,3 +86,7 @@ lint/tmp/
 
 # XCode
 xcuserdata/
+
+
+#img
+xxx.gradle
